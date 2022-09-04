@@ -1,1 +1,1 @@
-# openwrt-gdq-winter
+# 软件路由固件
